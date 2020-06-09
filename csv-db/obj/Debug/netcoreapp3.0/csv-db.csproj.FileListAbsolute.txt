@@ -1,0 +1,11 @@
+/Users/mattc/source/repos/csv-db/csv-db/bin/Debug/netcoreapp3.0/csv-db
+/Users/mattc/source/repos/csv-db/csv-db/bin/Debug/netcoreapp3.0/csv-db.deps.json
+/Users/mattc/source/repos/csv-db/csv-db/bin/Debug/netcoreapp3.0/csv-db.runtimeconfig.json
+/Users/mattc/source/repos/csv-db/csv-db/bin/Debug/netcoreapp3.0/csv-db.runtimeconfig.dev.json
+/Users/mattc/source/repos/csv-db/csv-db/bin/Debug/netcoreapp3.0/csv-db.dll
+/Users/mattc/source/repos/csv-db/csv-db/bin/Debug/netcoreapp3.0/csv-db.pdb
+/Users/mattc/source/repos/csv-db/csv-db/obj/Debug/netcoreapp3.0/csv-db.csprojAssemblyReference.cache
+/Users/mattc/source/repos/csv-db/csv-db/obj/Debug/netcoreapp3.0/csv-db.AssemblyInfoInputs.cache
+/Users/mattc/source/repos/csv-db/csv-db/obj/Debug/netcoreapp3.0/csv-db.AssemblyInfo.cs
+/Users/mattc/source/repos/csv-db/csv-db/obj/Debug/netcoreapp3.0/csv-db.dll
+/Users/mattc/source/repos/csv-db/csv-db/obj/Debug/netcoreapp3.0/csv-db.pdb
